@@ -1,0 +1,3 @@
+yarn install
+cd src
+npx ts-node --esm pool.ts
